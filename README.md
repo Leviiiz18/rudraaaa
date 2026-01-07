@@ -16,22 +16,22 @@ I prefer learning by doing: building, breaking, fixing, and refining. Iteration 
 ## What I Work With
 - Python (primary)
 - AI / ML fundamentals
-- System-oriented design
+- System-oriented problem solving
 - HTML, CSS, JavaScript
 
 ---
 
 ## What I Like Building
-- AI systems that don’t confidently make things up  
-- Structured experiments that evolve into tools  
-- Projects where logic and design matter more than hype  
+- Intelligent systems that solve real constraints  
+- Tools that optimize processes instead of just predicting outcomes  
+- Projects where structure and logic matter more than hype  
 
 ---
 
 ## Achievements
 - 🏆 **Winner — Atherion 22K25 Hackathon**
 - Founding Coordinator of a National-Level Tech Fest
-- Built agent-based systems for automated analysis and decision-making
+- Built a **supply chain optimization system** for automated analysis and decision-making
 
 ---
 
@@ -41,17 +41,18 @@ Fun fact: I designed the banner you’re seeing here — and yes, I instinctivel
 
 ---
 
-## How I Think About AI
-I prefer:
-> “This system works.”  
+## How I Approach Technology
+I don’t see AI as magic or shortcuts.  
+To me, it’s a tool — useful only when it’s grounded in logic, constraints, and real-world behavior.
 
-over:
-> “This prompt worked once.”
+I enjoy working on problems where:
+- trade-offs matter  
+- assumptions are tested  
+- and solutions need to adapt, not just respond  
 
-Reliability, structure, and clarity matter more than clever tricks.
+Understanding *why* something works is as important to me as making it work.
 
 ---
 
 Learning is ongoing.  
 This GitHub is a record of that process.
-# rudraaaa
